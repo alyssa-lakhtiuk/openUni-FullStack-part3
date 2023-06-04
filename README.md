@@ -1,3 +1,3 @@
 # openUni-FullStack-part3
 
-## Link: https://phonebook-app-backend.fly.dev/api/persons 
+## Link: https://phonebook-app-backend.fly.dev/ 
